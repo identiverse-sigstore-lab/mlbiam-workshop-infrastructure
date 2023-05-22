@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/identiverse:mlbiam-workshop-application-7777c4307ea2d90ab79a1005e99f2c671fc30bce
+      - image: public.ecr.aws/o6u7e2l7/identiverse:mlbiam-workshop-application-b1dfb09bf5c833fb7ca81cdde4857fc6a176d44f
         imagePullPolicy: Always
         name: pause
         resources: {}
